@@ -1,4 +1,3 @@
-﻿
 using System;
 
 namespace pertemuan_1
